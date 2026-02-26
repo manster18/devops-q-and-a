@@ -17,6 +17,7 @@
 | AWS (IAM, VPC, EC2, S3, RDS, EKS, CloudWatch, Route53, KMS, оптимизация затрат) | [aws/aws.md](aws/aws.md) |
 | IaC: Terraform + Ansible (state, модули, роли, Vault, Jinja2, оптимизация) | [iac/iac.md](iac/iac.md) |
 | Базы данных (SQL, NoSQL, HA, репликация, Redis, MongoDB, Elasticsearch) | [databases/databases.md](databases/databases.md) |
+| Docker builds (Go, Node.js, Python, Java, .NET, PHP, Frontend, Rust) | [docker-builds/docker-builds.md](docker-builds/docker-builds.md) |
 
 ---
 
