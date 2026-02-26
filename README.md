@@ -24,6 +24,7 @@
 | Сети / Networking (TCP/IP, BGP, VPN, eBPF, Service Mesh, Istio, CNI, NetworkPolicy) | [networking/networking.md](networking/networking.md) |
 | DevSecOps / Security (Vault, OPA/Gatekeeper, Falco, SAST/DAST, SBOM, Cosign, Zero Trust) | [devsecops/devsecops.md](devsecops/devsecops.md) |
 | Kafka (архитектура, репликация, exactly-once, Connect, Streams, тюнинг, K8s) | [kafka/kafka.md](kafka/kafka.md) |
+| GitOps и ArgoCD (принципы, ApplicationSet, Flux, multi-cluster, структура репо) | [gitops/gitops.md](gitops/gitops.md) |
 
 ---
 
