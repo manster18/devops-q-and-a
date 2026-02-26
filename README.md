@@ -23,6 +23,7 @@
 | SRE (SLI/SLO/SLA, Error Budget, Toil, Incident Management, Postmortem, DORA) | [sre/sre.md](sre/sre.md) |
 | Сети / Networking (TCP/IP, BGP, VPN, eBPF, Service Mesh, Istio, CNI, NetworkPolicy) | [networking/networking.md](networking/networking.md) |
 | DevSecOps / Security (Vault, OPA/Gatekeeper, Falco, SAST/DAST, SBOM, Cosign, Zero Trust) | [devsecops/devsecops.md](devsecops/devsecops.md) |
+| Kafka (архитектура, репликация, exactly-once, Connect, Streams, тюнинг, K8s) | [kafka/kafka.md](kafka/kafka.md) |
 
 ---
 
