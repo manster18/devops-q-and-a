@@ -27,6 +27,7 @@
 | GitOps и ArgoCD (принципы, ApplicationSet, Flux, multi-cluster, структура репо) | [gitops/gitops.md](gitops/gitops.md) |
 | Platform Engineering (IDP, Backstage, Golden Paths, Crossplane, Developer Experience) | [platform-engineering/platform-engineering.md](platform-engineering/platform-engineering.md) |
 | FinOps (Spot стратегии, rightsizing, Karpenter, S3 оптимизация, Showback, NAT costs) | [finops/finops.md](finops/finops.md) |
+| Chaos Engineering (LitmusChaos, AWS FIS, Chaos Mesh, Game Days, Maturity Model) | [chaos-engineering/chaos-engineering.md](chaos-engineering/chaos-engineering.md) |
 
 ---
 
