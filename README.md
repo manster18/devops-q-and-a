@@ -12,6 +12,8 @@
 |---|---|
 | Linux (процессы, ФС, сеть, производительность, systemd) | [linux/linux.md](linux/linux.md) |
 | Web (HTTP/HTTPS, Nginx, балансировка, DNS, SSL/TLS, безопасность) | [web/web.md](web/web.md) |
+| Docker (архитектура, Dockerfile, сеть, volumes, безопасность, Compose) | [docker/docker.md](docker/docker.md) |
+| Kubernetes (архитектура, workloads, сеть, хранилище, безопасность, HPA, Helm) | [kubernetes/kubernetes.md](kubernetes/kubernetes.md) |
 
 ---
 
