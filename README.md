@@ -15,6 +15,7 @@
 | Docker (архитектура, Dockerfile, сеть, volumes, безопасность, Compose) | [docker/docker.md](docker/docker.md) |
 | Kubernetes (архитектура, workloads, сеть, хранилище, безопасность, HPA, Helm) | [kubernetes/kubernetes.md](kubernetes/kubernetes.md) |
 | AWS (IAM, VPC, EC2, S3, RDS, EKS, CloudWatch, Route53, KMS, оптимизация затрат) | [aws/aws.md](aws/aws.md) |
+| IaC: Terraform + Ansible (state, модули, роли, Vault, Jinja2, оптимизация) | [iac/iac.md](iac/iac.md) |
 
 ---
 
