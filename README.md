@@ -21,6 +21,7 @@
 | CI/CD (GitHub Actions, GitLab CI, Jenkins, ArgoCD/GitOps, Blue-Green, Canary) | [cicd/cicd.md](cicd/cicd.md) |
 | Мониторинг и Observability (Prometheus, Grafana, ELK/EFK, Loki, OpenTelemetry, Jaeger) | [monitoring/monitoring.md](monitoring/monitoring.md) |
 | SRE (SLI/SLO/SLA, Error Budget, Toil, Incident Management, Postmortem, DORA) | [sre/sre.md](sre/sre.md) |
+| Сети / Networking (TCP/IP, BGP, VPN, eBPF, Service Mesh, Istio, CNI, NetworkPolicy) | [networking/networking.md](networking/networking.md) |
 
 ---
 
